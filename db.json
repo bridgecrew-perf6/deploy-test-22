@@ -1299,6 +1299,19 @@
       "latitude": "84.5635",
       "longitude": "-92.6138",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kkusaa/128.jpg"
+    },
+    {
+      "name": "Raheem Jast",
+      "dob": "1978-5-21",
+      "email": "Raheem32@yahoo.com",
+      "username": "Raheem.Jast",
+      "password": "QDN7ZOMOYmvieUx",
+      "phone": "279-886-5128 x7998",
+      "streetaddress": "10134 Ezekiel Prairie",
+      "citystatezip": "Lake Jakob, NV 41859",
+      "latitude": "-42.7597",
+      "longitude": "91.6405",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/stefanozoffoli/128.jpg"
     }
   ]
 }
